@@ -6,7 +6,7 @@
 # My Projects
 
 ## ETH Zürich
-- Practical Work: PLayer: A Persistence Layer for Lock-Free Data Structures on Enzian (SoftECI)
+- **Practical Work**: PLayer: A Persistence Layer for Lock-Free Data Structures on Enzian (SoftECI)
 - DPHPC Project: Efficient SDDMM Algorithms on GPU, a dynamic approach
 - ASL Project: Efficiently implementing floating-point expansions
 
