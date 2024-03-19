@@ -7,7 +7,7 @@
 
 ## ETH Zürich
 - **Practical Work**: PLayer: A Persistence Layer for Lock-Free Data Structures on Enzian (SoftECI)
-- DPHPC Project: Efficient SDDMM Algorithms on GPU, a dynamic approach
+- [DPHPC Project](https://github.com/francois141/dphpc): Efficient SDDMM Algorithms on GPU, a dynamic approach
 - ASL Project: Efficiently implementing floating-point expansions
 
 ## University of Fribourg
