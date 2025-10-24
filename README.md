@@ -6,7 +6,8 @@
 # My Projects
 
 ## ETH Zürich
-- **Practical Work**: PLayer: A Persistence Layer for Lock-Free Data Structures on Enzian (SoftECI)
+- [Master Thesis](https://github.com/Cobra8/CXL-Simulation): Bridging the gap between existing hardware and the CXL specification – A transaction-layer accurate CXL simulation
+- Practical Work: PLayer: A Persistence Layer for Lock-Free Data Structures on Enzian (SoftECI)
 - [DPHPC Project](https://github.com/francois141/dphpc): Efficient SDDMM Algorithms on GPU, a dynamic approach
 - ASL Project: Efficiently implementing floating-point expansions
 
